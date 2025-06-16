@@ -1,2 +1,14 @@
-# Basic_Ml_Projects
-Here i have my all the basic projects of machine learning with simple frontend and python frameworks like django and flask
+# Email Spam Detector
+
+This is a Flask-based machine learning project that detects whether an email is spam or not.
+
+## Features
+- Preprocesses email text
+- Uses a trained Naive Bayes model for classification
+- Frontend to input email content
+- JSON-based predictions
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
