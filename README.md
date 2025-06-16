@@ -11,4 +11,4 @@ This is a Flask-based machine learning project that detects whether an email is 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone  https://github.com/Shravikajain/Basic_Ml_Projects
