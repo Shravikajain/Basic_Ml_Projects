@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+venv/
+.env
+
+# Flask
+instance/
+*.pkl
+
+# OS Files
+.DS_Store
+Thumbs.db
